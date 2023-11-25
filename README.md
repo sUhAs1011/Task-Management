@@ -10,5 +10,5 @@ npm start
 ```
 Command for running the back-end
 ```shell
-index node.js
+node index.js
 ```
