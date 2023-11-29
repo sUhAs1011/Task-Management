@@ -1,8 +1,7 @@
 # Task-Management
 
-This is my third Web Technologies Mini project, where we have a made a basic task-management project, which consists of both the front-end and the back-end
-
-The App.js is the front end part and the index.js is the backend part
+This is our third Mini project in Web Technologies, encompassing a rudimentary task-management 
+system with both front-end (App.js) and back-end (index.js) components.
 
 Command for running the front-end
 ```shell
